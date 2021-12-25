@@ -5,8 +5,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chatdil0&label=Profile%20views&color=0e75b6&style=flat" alt="chatdil0" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chatdil0" alt="chatdil0" /></a> </p>
-
 - 🔭 I’m currently working on **Fiverr**
 
 - 🌱 I’m currently learning **Designer & Developer**
@@ -29,4 +27,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=chatdil0&show_icons=true&locale=en&layout=compact" alt="chatdil0" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chatdil0&show_icons=true&locale=en" alt="chatdil0" /></p>
-
