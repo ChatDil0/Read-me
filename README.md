@@ -1,7 +1,11 @@
 <h1 align="center">Hi 👋, I'm Chathura Ranasinghe</h1>
 <h3 align="center">A Designer & Developer</h3>
-![Designer & Developer](https://scontent.fcmb2-2.fna.fbcdn.net/v/t1.6435-9/165384801_1388688508164491_9131380900901863803_n.jpg?_nc_cat=101&ccb=1-5&_nc_sid=e3f864&_nc_eui2=AeEyw_O9rcu1E128qo6AUEgj1T85ArBbJ_LVPzkCsFsn8nhxoKQXyBXxMbXy8isvx-ntY95RKLXszdzFBLvVS2Hu&_nc_ohc=vy5kyyHBVLMAX-bWXVG&_nc_ht=scontent.fcmb2-2.fna&oh=00_AT-kWmlJImODR1pgUZanCFyXquuT67QeT6ba7PyX5CJ7bw&oe=61ED3455)
 
+<img src = "https://scontent.fcmb2-2.fna.fbcdn.net/v/t1.6435-9/165384801_1388688508164491_9131380900901863803_n.jpg?_nc_cat=101&ccb=1-5&_nc_sid=e3f864&_nc_eui2=AeEyw_O9rcu1E128qo6AUEgj1T85ArBbJ_LVPzkCsFsn8nhxoKQXyBXxMbXy8isvx-ntY95RKLXszdzFBLvVS2Hu&_nc_ohc=vy5kyyHBVLMAX-bWXVG&_nc_ht=scontent.fcmb2-2.fna&oh=00_AT-kWmlJImODR1pgUZanCFyXquuT67QeT6ba7PyX5CJ7bw&oe=61ED3455">
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=chatdil0&label=Profile%20views&color=0e75b6&style=flat" alt="chatdil0" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chatdil0" alt="chatdil0" /></a> </p>
 
 - 🔭 I’m currently working on **Fiverr**
 
@@ -11,8 +15,11 @@
 
 - 📫 How to reach me **chathurar.99.bc@gmail.com**
 
+- ⚡ Fun fact **I hate this**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://twitter.com/@chathuraranas15" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@chathuraranas15" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/www.linkedin.com/in/chathura-ranasinghe-925952222" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/chathura-ranasinghe-925952222" height="30" width="40" /></a>
 </p>
 
@@ -23,4 +30,3 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chatdil0&show_icons=true&locale=en" alt="chatdil0" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chatdil0&" alt="chatdil0" /></p>
