@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Chathura Ranasinghe</h1>
 <h3 align="center">A Designer & Developer</h3>
 
-<img style="width: 100%; height: 200px; object-fit: cover;"  src = "https://scontent.fcmb1-2.fna.fbcdn.net/v/t1.6435-9/165384801_1388688508164491_9131380900901863803_n.jpg?_nc_cat=101&ccb=1-5&_nc_sid=e3f864&_nc_eui2=AeEyw_O9rcu1E128qo6AUEgj1T85ArBbJ_LVPzkCsFsn8nhxoKQXyBXxMbXy8isvx-ntY95RKLXszdzFBLvVS2Hu&_nc_ohc=ni-PbUZCpNEAX9qyWP6&_nc_ht=scontent.fcmb1-2.fna&oh=00_AT90GHSkDtctVOONJaYFsyWTZAJ0FYgea8QKwK_-C5usWw&oe=61F128D5">
+<img "https://lh3.googleusercontent.com/UfogIPYoxZCylq-fMgJuOAy63Mo_VWAUX5McGHd9Xey0ZetyK7_ZyDyEriXlkDrwwuFqRTZN9aflFs3Xze6Emx9Jo7mbDPl7LC0fKdd0VtMgknIfYUoNyFZx6nb44ZATuLbtvq03AtkAY-ivU48BE7SSsvR5Z3A3XzvTWjfwf3dBeaAaKicr3VoKDM7BBPK6AArfPIEOCeH_3Z0069M9uiuOXo-Ti5QHbrVS1cc3rLc3lU6juNpRWs_xNNqleJykjQSJB8rIzNSPJ7VpSVSjiYpz-V_TqaG_j8gm2XbSzPjqs_IT1TpHosel7b9bFRpxhhyaYqnIyARocbqaqrmc2ZMSbjE5mcXDaCj3m-L3-ISNGX175FojswaOaQrzxqw8Aq9OrVuLnn9t-ybS1dV5Oh7A2X3I-H1lp8eor4Q0_uX6R7HTn0FRyLN3XtBH9LtBQ1e8kDJcY56nSNtk0CXi4f5oy0cABA4Udi-mLUR5Q7rOb-UVG61okstEkJR83z1eA2iJBaRSzklIV5uc_6JrpfRLpZHZF0RfLcJv_ollScG632iOU2hSlZz28t1mzShVQIdHyO3D44MblCX0YIK7j6P6sw0NkV4UgqGHRFIO8L1i2P5QLX3gTRkn0_Ob0Su8zrCwtUNmTlwVxfHlpkdcNA0M9WCqb6KafUau-fy2lB0X-H4fxi8C4_fEzRymctATNWagnRLae0C8SYb_EyoybXA=w1440-h611-no?authuser=0">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chatdil0&label=Profile%20views&color=0e75b6&style=flat" alt="chatdil0" /> </p>
 
