@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Chathura Ranasinghe</h1>
 <h3 align="center">A Designer & Developer</h3>
 
-<img src = "https://scontent.fcmb1-2.fna.fbcdn.net/v/t1.6435-9/165384801_1388688508164491_9131380900901863803_n.jpg?_nc_cat=101&ccb=1-5&_nc_sid=e3f864&_nc_eui2=AeEyw_O9rcu1E128qo6AUEgj1T85ArBbJ_LVPzkCsFsn8nhxoKQXyBXxMbXy8isvx-ntY95RKLXszdzFBLvVS2Hu&_nc_ohc=ni-PbUZCpNEAX9qyWP6&_nc_ht=scontent.fcmb1-2.fna&oh=00_AT90GHSkDtctVOONJaYFsyWTZAJ0FYgea8QKwK_-C5usWw&oe=61F128D5">
+<img style="width: 200px; height: 150px;" src = "https://scontent.fcmb1-2.fna.fbcdn.net/v/t1.6435-9/165384801_1388688508164491_9131380900901863803_n.jpg?_nc_cat=101&ccb=1-5&_nc_sid=e3f864&_nc_eui2=AeEyw_O9rcu1E128qo6AUEgj1T85ArBbJ_LVPzkCsFsn8nhxoKQXyBXxMbXy8isvx-ntY95RKLXszdzFBLvVS2Hu&_nc_ohc=ni-PbUZCpNEAX9qyWP6&_nc_ht=scontent.fcmb1-2.fna&oh=00_AT90GHSkDtctVOONJaYFsyWTZAJ0FYgea8QKwK_-C5usWw&oe=61F128D5">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chatdil0&label=Profile%20views&color=0e75b6&style=flat" alt="chatdil0" /> </p>
 
