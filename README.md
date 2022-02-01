@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Chathura Ranasinghe</h1>
 <h3 align="center">A Designer & Developer</h3>
 
-<img src="https://scontent.fcmb2-2.fna.fbcdn.net/v/t39.30808-6/271756389_1594817110884962_3046968998997003498_n.jpg?_nc_cat=103&ccb=1-5&_nc_sid=09cbfe&_nc_eui2=AeFPGjcWeqnBn1ut1WWOwpeHXjrbYDe2XoJeOttgN7Zegtw9epZ1WrW4ssjFDWS7DX9X4pfBWJ7VFSfJSZ-UF_f6&_nc_ohc=PLsDj1w2IokAX9Ljp4H&tn=GnYK9s0eUZGfx0Nk&_nc_ht=scontent.fcmb2-2.fna&oh=00_AT9iRykgrIPPri5gUZmp9o1IuDrGThVB3E7vUst6iI9jOg&oe=61E777D6" alt="Cover">
+<img src="https://raw.githubusercontent.com/ChatDil0/sample-about/main/rsz_165384801_1388688508164491_9131380900901863803_n.jpg" alt="Cover">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chatdil0&label=Profile%20views&color=0e75b6&style=flat" alt="chatdil0" /> </p>
 
