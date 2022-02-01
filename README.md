@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Chathura Ranasinghe</h1>
 <h3 align="center">A Designer & Developer</h3>
 
-<img src="https://raw.githubusercontent.com/ChatDil0/sample-about/main/rsz_165384801_1388688508164491_9131380900901863803_n.jpg" alt="Cover">
+<p style= "text-align:center;"><img  src="https://raw.githubusercontent.com/ChatDil0/sample-about/main/rsz_165384801_1388688508164491_9131380900901863803_n.jpg" alt="Cover"></p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=chatdil0&label=Profile%20views&color=0e75b6&style=flat" alt="chatdil0" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=chatdil0&label=Profile%20views&color=0e75b6&style=flat" alt="chatdil0" /></p>
 
 - 🔭 I’m currently working on **Fiverr**
 
